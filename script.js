@@ -64,7 +64,7 @@ const account3 = {
     '2023-07-14T10:51:36.790Z',
   ],
   currency: 'INR',
-  locale: 'pt-PT',
+  locale: 'en-IN',
 };
 
 const account4 = {
